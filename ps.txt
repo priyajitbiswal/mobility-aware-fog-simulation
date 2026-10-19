@@ -1,0 +1,15 @@
+Conduct a literature survey of at least 10 research papers on mobility-aware fog 
+computing, task migration, energy-efficient resource management, and mobility prediction. 
+Compare the existing approaches, algorithms, performance metrics, and limitations, and 
+identify the research gap addressed by your proposed architecture.
+
+Mobility-Aware and Energy-Efficient Fog Computing 
+Consider a smart transportation environment in which vehicles and mobile users continuously 
+move between different fog-node coverage areas. Tasks assigned to a fog node may therefore 
+experience disconnection, increased latency, or the need for migration. Evaluate the 
+challenges of mobility support in Fog Computing and design a mobility-aware, energy
+efficient computing framework. 
+Develop an architecture incorporating mobile devices/vehicles, fog nodes, mobility prediction, 
+task migration, resource allocation, and cloud support. Evaluate different strategies for task 
+migration, fog-node selection, energy consumption, latency, and service continuity. Justify 
+the trade-offs between energy efficiency and application performance.
